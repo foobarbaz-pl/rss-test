@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Game Updates — Star Wars Galaxy of Heroes Forums</title>
+		<link>https://forums.galaxy-of-heroes.starwars.ea.com/</link>
+		<pubDate>Fri, 25 Jan 2019 13:22:42 +0000</pubDate>
+		<language>en</language>
+		<description>Game Updates — Star Wars Galaxy of Heroes Forums</description>
+		<atom:link href="https://forums.galaxy-of-heroes.starwars.ea.com/categories/game-updates/feed.rss" rel="self" type="application/rss+xml"/>
+		<item>
+			<title>Scheduled Update 1/23/2019</title>
+			<link>https://forums.galaxy-of-heroes.starwars.ea.com/discussion/193714/scheduled-update-1-23-2019</link>
+			<pubDate>Wed, 23 Jan 2019 23:17:40 +0000</pubDate>
+			<category>Game Updates</category>
+			<dc:creator>CG_SBCrumb</dc:creator>
+			<guid isPermaLink="false">193714@/discussions</guid>
+			<description>
+				<![CDATA[Hi Holotable Heroes!<br />
+We have minor update for today, 1/23/19.<br /><br /><u><b>FIXES</b></u><ul><li><b>SHIP</b> - Fixed a bug that caused Han's Millennium Falcon to be targetable while having the &quot;Outmaneuver&quot; buff and stealth while other allies active are also stealthed</li></ul>
+]]>
+			</description>
+		</item>
+		<item>
+			<title>Content Update 1/16/2019</title>
+			<link>https://forums.galaxy-of-heroes.starwars.ea.com/discussion/193145/content-update-1-16-2019</link>
+			<pubDate>Wed, 16 Jan 2019 23:17:59 +0000</pubDate>
+			<category>Game Updates</category>
+			<dc:creator>CG_SBCrumb</dc:creator>
+			<guid isPermaLink="false">193145@/discussions</guid>
+			<description>
+				<![CDATA[
+<div><img src="https://us.v-cdn.net/6025736/uploads/editor/ak/xc8zeibe3so0.png" alt="xc8zeibe3so0.png" /></div><br /><br />
+Hi Holotable Heroes!<br />
+Here is all the new content you’ll find after today’s update,1/16/19.<br /><br /><u><b>NEW CHARACTERS</b></u><br /><br />
+For more info on these units, check out the kit reveals and strategy guides below:
+<ul><li><a href="https://forums.galaxy-of-heroes.starwars.ea.com/discussion/192886/kit-reveal-hans-millennium-falcon" rel="nofollow">Han’s Millenium Falcon</a></li></ul><hr /><br /><u><b>CHANGES</b></u><ul><li>Gear XII salvage and MK 2 Pulse Modulators have been added to the Shard Store.</li><li>C-3PO's &quot;Oh My Goodness!&quot; special ability will now prefer to target allies that do not currently have Translation. If all allies have Translation it will select a random target.</li></ul><hr /><br /><u><b>EVENTS</b></u><br /><u><b>Flight of the Falcon</b></u><br />
+BOUNTY HUNTER ships have been dispatched by DARTH VADER to find and capture a group of Rebel ships including HAN'S MILLENNIUM FALCON.<br />
+Succeed and earn blueprints for Han Solo's iconic ship!
+<ul><li>Event begins: <b>January 17th</b></li><li>Level requirements for event: 60+</li><li>Minimum Requirement: Bounty Hunter Ships(1-Star for tier 1 scaling up to 7-Star for tier 7) and a Capital Ship that meets the Star requirement for each tier of the event</li></ul><hr /><br /><u><b>SHARD SHUFFLE</b></u><br />
+These characters or ships are now available in the following locations:<br /><b>Anakin’s Eta-2 Starfighter</b><ul><li>Anakin’s Eta-2 Starfighter is now available on Fleet Battles 1-B Hard. Anakin’s Starfighter is an addition to Fleet Battles 1-B Hard and does not replace any possible rewards currently available there.</li></ul><br /><b>Canderous Ordo</b><ul><li>Canderous Ordo is available on Cantina Battles 5-C. Canderous Ordo will replace Finn, the character currently on Cantina Battles 5-C. Finn will continue to be farmable in Cantina Battles 3-E and Light Side Battles 7-A Hard.</li></ul><br /><b>Bastila Shan (Fallen)</b><ul><li>Bastila Shan (Fallen)is now available on Dark Side Battles 7-A Hard. Bastila Shan (Fallen) will replace Poe Dameron, the character currently on Dark Side Battles 7-A Hard. Poe Dameron will continue to be farmable in Light Side Battles 7-B Hard.</li></ul><hr /><br /><u><b>PACKS AND BUNDLES</b></u><br /><u><b>FREEDOM FIGHTER FACTION PACK</b></u><br />
+Power up your Rebel ships with a FREEDOM FIGHTER FACTION PACK.<br />
+Each pack awards 1 card of ship blueprints worth 10-100 blueprints for Rebel ships.<br />
+Possible Ships:
+<ul><li>Biggs Darklighter’s X-wing</li><li>Bistan’s U-wing</li><li>Cassian’s U-wing</li><li>Ghost</li><li>Phantom II</li><li>Wedge Antilles’s X-wing</li></ul><ul><li>Date available: <b>January 24th</b></li><li>799 Crystals</li><li>Minimum Level requirements: 60+</li><li>Purchase limit: 10 per day</li></ul><br /><u><b>FREEDOM FIGHTER ULTIMATE BUNDLE</b></u><br />
+Power up your fleets with this Freedom Fighter bundle, which includes Ship Blueprints for 6 Rebel ships.<br />
+Includes:<br /><ul><li>Cassian’s U-wing (x80)</li><li>Bistan’s U-wing (x60)</li><li>Ghost (x60)</li><li>Phantom II (x30)</li><li>Biggs Darklighter’s X-wing (x25)</li><li>Wedge Antilles’s X-wing (x25)</li></ul>
+BONUS: This bundle also includes Ship Building Materials, Enhancement Droids, Ship Ability Materials, and Reinforcement Materials to immediately power up these ships to Ship level: 40
+<ul><li>Date available: <b>January 24th</b></li><li>Minimum Level requirements: 60+</li></ul><hr /><br /><u><b>FIXES</b></u><ul><li><b>CHARACTER</b> - Fixed a bug where L3-37 could save droid allies with &quot;For the Droids&quot; after L3-37 was defeated.</li><li><b>CHARACTER</b> - Fixed a bug which prevented Cartel Spy (PvE Unit) from using Taunt correctly.</li><li><b>CHARACTER</b> - Fixed a bug that prevented Bastila Shan (Fallen) from being the source of the effects on “Fear's” Stun when it expires.</li><li><b>CHARACTER</b> - Fixed a bug where Nute Gunray's &quot;Backroom Subterfuge&quot; upgrade path tier 3 incorrectly stated the amount of Turn Meter gained on a Critical Hit as 20% instead of 30%.</li><li><b>CHARACTER</b> - Fixed a bug where Death Trooper's &quot;Death Trooper Grenade&quot; would not prevent Barriss Offee from healing when it critically hit when Healing Immunity was applied.</li><li><b>CHARACTER</b> - Fixed a bug which prevented Bastila Shan (Fallen) from recovering Max Health after applying Corrupted Battle Meditation to enemies while Emperor Palpatine is in the leader slot.</li><li><b>CHARACTER</b> - Updated Jedi Knight Revan’s “Savior” description to clarify that Jedi allies that are rescued by “Savior” cannot be defeated for the rest of that turn.</li><li><b>CHARACTER</b> - Fixed a bug where Death Trooper could apply Death Mark with &quot;Terminate&quot; in The Pit and Tank Takedown raids in certain phases when there are no defeated enemies.</li><li><b>CHARACTER</b> - Fixed a bug where Darth Nihilus would not recover Max Health when he inflicts a debuff at the start of his turn with his &quot;Wound in the Force&quot; with Emperor Palpatine in the leader slot.</li><li><b>QUEST</b> - Vandor Chewbacca and Zaalbar now are counted for the &quot;Wookiee Hunter&quot; quest.</li></ul><br /><a href="https://forums.galaxy-of-heroes.starwars.ea.com/discussion/193146/content-update-1-16-2019-mega/p1?new=1" rel="nofollow">&lt;&lt;MEGATHREAD&gt;&gt;</a>]]>
+			</description>
+		</item>
+	</channel>
+</rss>
